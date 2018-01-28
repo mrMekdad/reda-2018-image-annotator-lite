@@ -22,3 +22,7 @@ Utility to catalog image batches, labels, and manual review notes.
 
 This repository is written as a serious standalone project rather than a toy snapshot.
 The code is intentionally readable, with explicit notes from Red@ on workflow and evolution.
+
+## Workflow
+
+Red@ keeps this project documentation-first, then hardens code paths after sample review.
