@@ -1,3 +1,4 @@
 sample	status	group
 image-annotator-lite-01	ready	control
 image-annotator-lite-02	review	case
+image-annotator-lite-03	queued	validation
